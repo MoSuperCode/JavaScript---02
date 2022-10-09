@@ -1,0 +1,1 @@
+document.getElementById("gallery").innerHTML ="<figure><img src='https://www.unsplash.it/200'><figcaption>Fig.1</figcaption></figure> <figure><img src='https://www.unsplash.it/200'><figcaption>Fig.2</figcaption></figure> <figure><img src='https://www.unsplash.it/200'><figcaption>Fig.3</figcaption></figure>"
